@@ -24,6 +24,18 @@
     <fullyQualifiedTypeName name="java.time.ZonedDateTime"/>
     <fullyQualifiedTypeName name="java.time.LocalTime"/>
     <fullyQualifiedTypeName name="java.time.ZoneId"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="com.app.date_and_time.ClassC"/>
+    <fullyQualifiedTypeName name="com.app.inner_class.ClassA.InnerClass"/>
+    <fullyQualifiedTypeName name="com.app.inner_class.ClassA"/>
+    <fullyQualifiedTypeName name="com.app.static_inner_class.ClassA.InnerClassA"/>
+    <fullyQualifiedTypeName name="com.app.static_inner_class.ClassA"/>
+    <fullyQualifiedTypeName name="MethodInnerClassA"/>
+    <fullyQualifiedTypeName name="com.app.method_local_inner_class.ClassA"/>
+    <fullyQualifiedTypeName name="com.app.anonymous_inner_class.OuterClass"/>
+    <fullyQualifiedTypeName name="javax.management.remote.SubjectDelegationPermission"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="com.app.anonymous_inner_class.ClassX"/>
+    <fullyQualifiedTypeName name="com.app.ClassA"/>
+    <fullyQualifiedTypeName name="com.app.Days"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>
