@@ -1,0 +1,5 @@
+package com.app.lambda_expression;
+
+public interface InterfaceA {
+
+}

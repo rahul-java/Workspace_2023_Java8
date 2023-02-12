@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+    <fullyQualifiedTypeName name="com.app.lambda_expression.InterfaceA"/>
+    <fullyQualifiedTypeName name="com.app.lambda_expression.Test1"/>
+    <fullyQualifiedTypeName name="com.app.lambda_expression1.InterfaceB"/>
+    <fullyQualifiedTypeName name="com.app.lambda_expression1.Test2"/>
+    <fullyQualifiedTypeName name="com.app.lambda_expression1.InterfaceC"/>
+    <fullyQualifiedTypeName name="com.app.lambda_expression2.InterfaceA"/>
+    <fullyQualifiedTypeName name="com.app.method_referencing.ClassB"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="com.app.stram_api.ClassA"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.security.cert.CollectionCertStoreParameters"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="com.app.optional_class.ClassA"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="com.app.parallel_array_sorting.ClassB"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.time.ZonedDateTime"/>
+    <fullyQualifiedTypeName name="java.time.LocalTime"/>
+    <fullyQualifiedTypeName name="java.time.ZoneId"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.app.date_and_time.ClassC"/>
+</qualifiedTypeNameHistroy>

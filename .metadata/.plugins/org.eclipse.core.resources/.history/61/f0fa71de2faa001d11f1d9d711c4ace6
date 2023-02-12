@@ -1,0 +1,12 @@
+package com.app.method_referencing;
+
+public class ClassB {
+
+	public void show(int age)
+	{
+		if(age>=18)
+     	   System.out.println("Congratulations You are eligible to VOTE......");
+        else
+     	   System.out.println("SORRY ! You are not eligible to VOTE.");
+	}
+}

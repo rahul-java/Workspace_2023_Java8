@@ -1,0 +1,15 @@
+package com.app.date_and_time;
+
+import java.time.LocalDate;
+
+public class ClassC {
+
+	void meth1()
+	{
+		
+	}
+	public static void main(String[] args) {
+		System.out.println(LocalDate.now());
+	}
+
+}

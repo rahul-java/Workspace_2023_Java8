@@ -1,0 +1,14 @@
+package com.app.method_referencing;
+
+public class Test3 {
+
+	public void testMethod()
+	{
+		InterfaceA x=new ClassB()::show;  //:: => is method referencing operator.
+		x.checkAge(17);
+	}
+	public static void main(String[] args) {
+		new Test3().testMethod();
+	}
+
+}

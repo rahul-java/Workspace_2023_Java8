@@ -1,0 +1,14 @@
+package com.app.lambda_expression;
+
+public class Test1 {
+
+	public void testMethod()
+	{
+		InterfaceA x=()->System.out.println(" Hello This is my first Lambda expression...");
+		x.meth1();
+	}
+	public static void main(String[] args) {
+		new Test1().testMethod();
+	}
+
+}

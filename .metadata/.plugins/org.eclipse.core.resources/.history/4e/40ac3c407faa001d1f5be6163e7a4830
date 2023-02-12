@@ -1,0 +1,52 @@
+package com.app.stram_api;
+
+import java.util.ArrayList;
+import java.util.Iterator;
+
+public class ClassA {
+
+	void meth1()
+	{
+		System.out.println("--------------Implementing Stram API-----------");
+		ArrayList<Integer> al = new ArrayList<Integer>();
+		al.add(10);
+		al.add(20);
+		al.add(30);
+		al.add(40);
+		al.add(50);
+		al.add(60);
+		al.add(70);
+		al.add(80);
+		al.add(90);
+		al.add(100);
+		
+		/*
+		Iterator<Integer> i = al.iterator();
+		while(i.hasNext())
+		{
+			System.out.println(i.next());
+		}
+		*/
+		
+		al.forEach(data->System.out.println(data));
+	}
+	
+	void meth2()
+	{
+		ArrayList<String> al = new ArrayList<String>();
+		al.add("Java");
+		al.add("Spring-Boot");
+		al.add("Html");
+		al.add("Css");
+		al.add("Dev-ops");
+		al.add("AWS");
+		al.add("Angular");
+		al.add("Oracle");
+		al.add("Hibernate");
+	}
+	public static void main(String[] args) {
+		
+		new ClassA().meth1();
+	}
+
+}
